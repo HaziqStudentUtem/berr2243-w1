@@ -12,7 +12,7 @@ async function main() {
         const collection = db.collection("users");
 
         // Insert a document
-        await collection.insertOne({ name: "Haziq", age: 22 });
+        await collection.insertOne({ name: "Alice", age: 25 });
         console.log("Document inserted!");
 
         // Query the document
