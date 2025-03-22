@@ -16,7 +16,7 @@ async function main() {
         console.log("Document inserted!");
 
         // Query the document
-        const result = await collection.findOne({ name: "Muhammad" });
+        const result = await collection.findOne({ name: "Alice" });
         console.log("Query result:", result);
     } catch (err) {
         console.error("Error:", err);
