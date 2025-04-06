@@ -13,12 +13,12 @@ const drivers = [
         isAvailable: false,
         rating: 4.5,
     },
-    /*{ 
+    { 
         name: "Sayed Faisal",
         vehicleType: "Truck",
         isAvailable: true,
         rating: 4.3,
-    }*/
+    }
 ];
 
 console.log(drivers);   
