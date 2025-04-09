@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/HaziqStudentUtem/berr2243-w1#readme",
   "dependencies": {
+    "express": "^5.1.0",
     "mongodb": "^6.15.0",
     "mongoose": "^8.12.2"
   }
